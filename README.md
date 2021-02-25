@@ -132,5 +132,9 @@ WP  | semana | deadline  | Tema | Documentación| Repositorio
 ## ENTREGAS DEL PROYECTO  
 
 07  | semana 7 |  | Presentación | [link](./docs/WP07.md) |  [WP07](https://classroom.github.com/g/hfWKBknQ) 
+* [G01](https://github.com/unal-edigital2/w07_entrega-_final-grupo01)
+* [G02](https://github.com/unal-edigital2/w07_entrega-_final-grupo02)
+* [G03](https://github.com/unal-edigital2/w07_entrega-_final-grupo03)
+* [G05](https://github.com/unal-edigital2/w07_entrega-_final-grupo05)
 
 
