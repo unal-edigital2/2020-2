@@ -10,7 +10,7 @@ https://unal-edigital2.github.io/2020-2/
 * [2018](https://github.com/unal-edigital2/2020-2/blob/master/docs/proyectos2018.md)
 * [2019](https://unal-edigital2.github.io/2019-2/)
 
-###
+### Reuniones
 	meet: [https://meet.google.com/ozs-buqf-ogw](https://meet.google.com/ozs-buqf-ogw) 
 	Teoria: Martes y jueves 7-9am
 	Laboratorio; Viernes
